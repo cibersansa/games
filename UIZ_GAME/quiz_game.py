@@ -6,3 +6,5 @@ if playing != "sim":
     quit()
 
 print("Maravilha! Vamos Jogar :)")
+
+print
