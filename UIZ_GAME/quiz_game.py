@@ -7,4 +7,8 @@ if playing != "sim":
 
 print("Maravilha! Vamos Jogar :)")
 
-print
+answer = input("Qual e o nome do filho de Deus nosso pai? ")
+if answer == "Jesus":
+    print("correto!")
+else:
+    print("errou!")
